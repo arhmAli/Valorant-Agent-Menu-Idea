@@ -67,8 +67,7 @@ width: 20vw;
     text-align: center;
     margin-top: 70%;
     padding-right:12rem;
-    right: 13rem;
-
+    right: 10rem;
 }
 
 /*  
@@ -173,11 +172,12 @@ footer img{
     width: 20rem;
     margin: 4rem;
     margin-top: 11rem;
-background-color: #2c6fa7;
-border: 1px solid #2c6fa7;
-border-radius: 100%;
+    background-color: #2c6fa7;
+    border: 1px solid #2c6fa7;
+    border-radius: 100%;
 }
 footer img:hover{
+    cursor:pointer;
     transform: translateY(-30%);
     background: linear-gradient(56deg, #61dafb 0%, #d6cbf6 46%, #f2056f 100%);
     transition: all 0.4s ease;
