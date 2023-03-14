@@ -24,7 +24,7 @@ body{
  .forward{
     position: absolute;
     display: flex;
-    margin-top: -8%;
+    margin-top: -5%;
  }
  .backward{
     position: relative;
@@ -66,7 +66,8 @@ width: 20vw;
     text-transform: uppercase;
     text-align: center;
     margin-top: 70%;
-    padding-right:12rem;
+    margin-left:70%;
+    padding-right:9rem;
     right: 10rem;
 }
 
